@@ -93,16 +93,3 @@ A few things about me:
   <img src="https://github-profile-trophy.vercel.app/?username=ajaymannam02&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
-## 🤝 Let's Connect
-
-I'm always open to collaborating on GenAI projects, talking shop about LLMs and agents, or connecting with fellow builders. Reach out on any of the platforms above.
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_YOUTUBE_URL">YouTube</a> •
-  <a href="YOUR_MEDIUM_URL">Medium</a> •
-  <a href="YOUR_INSTAGRAM_URL">Instagram</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
-</p>
-
-<p align="center"><i>Building intelligent systems, one commit at a time. ⚡</i></p>
