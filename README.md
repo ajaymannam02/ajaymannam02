@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-AI Engineer with 3+ years of experience designing and shipping end-to-end production AI — large language models, Retrieval-Augmented Generation, agentic systems, and conversational AI for SaaS platforms. I care about clean MLOps, containerized deployments, and AI you can actually trust in production.
+AI Engineer with 3+ years of experience designing and shipping end-to-end production AI  large language models, Retrieval-Augmented Generation, agentic systems, and conversational AI for SaaS platforms. I care about clean MLOps, containerized deployments, and AI you can actually trust in production.
 
 When I'm not building, I share what I learn:
 
@@ -72,11 +72,8 @@ A few things about me:
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="YOUR_YOUTUBE_URL" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="YOUR_MEDIUM_URL" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="YOUR_INSTAGRAM_URL" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ajaymannam00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ajaymannam02/?isSelfProfile=true" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ajaymannam2002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## 📊 GitHub Stats
