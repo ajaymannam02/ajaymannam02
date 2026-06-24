@@ -24,10 +24,9 @@ When I'm not building, I share what I learn:
 
 A few things about me:
 
-- 🔭 Currently building deterministic, custom-coded GenAI recommendation engines (no no-code shortcuts)
+- 🔭 Currently building deterministic, custom-coded GenAI recommendation engines
 - 🌱 Deep-diving LangGraph, agentic orchestration, and production-grade RAG
-- 🏋️ Competitive powerlifter — same structured, data-driven mindset in engineering as in training
-- 🎧 Powered by techno and an aggressively high caffeine tolerance
+- 🏋️ Competitive powerlifter  same structured, data-driven mindset in engineering as in training
 - 💬 Ask me about LLMs, RAG, embeddings, fine-tuning, or MLOps
 
 ## 🛠️ Tech Stack
@@ -87,9 +86,4 @@ A few things about me:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaymannam02&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="170" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajaymannam02&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
 
